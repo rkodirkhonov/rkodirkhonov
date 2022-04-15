@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 ## Connect me with
-- https://www.linkedin.com/in/rustamjon-kodirkhonov-23b3311b7/
-- https://github.com/rkodirkhonov
-- https://www.facebook.com/developer6229/
-- https://t.me/Rustamjon_Kodirkhonov
+[linkedin]: https://www.linkedin.com/in/rustamjon-kodirkhonov-23b3311b7
+[github]: https://github.com/rkodirkhonov
+[facebook]: https://www.facebook.com/developer6229
+[telegram]: https://t.me/Rustamjon_Kodirkhonov
