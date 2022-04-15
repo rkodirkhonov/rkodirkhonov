@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 
 
 ## Connect me with
-[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="facebook | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="telegram | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-<br/>
+<!-- [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
+[<img align="left" alt="facebook | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
+[<img align="left" alt="telegram | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>][telegram]
+<br/> -->
 
-[linkedin] : https://www.linkedin.com/in/rustamjon-kodirkhonov-23b3311b7
-[twitter] : https://twitter.com/RKodirkhonov
-[facebook] : https://www.facebook.com/developer6229
-[telegram] : https://t.me/Rustamjon_Kodirkhonov
+- [linkedin] : https://www.linkedin.com/in/rustamjon-kodirkhonov-23b3311b7
+- [twitter] : https://twitter.com/RKodirkhonov
+- [facebook] : https://www.facebook.com/developer6229
+- [telegram] : https://t.me/Rustamjon_Kodirkhonov
