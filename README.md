@@ -25,3 +25,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Have high passion to learn anything new when it has a high potential to push me forward in my field!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkodirkhonov)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Connect me with
+- https://www.linkedin.com/in/rustamjon-kodirkhonov-23b3311b7/
+- https://github.com/rkodirkhonov
+- https://www.facebook.com/developer6229/
+- https://t.me/Rustamjon_Kodirkhonov
