@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 - 🙎🏻‍♂️ currently working with lab practices using data structures deeply
 - 💯 increasing my knowledge in advanced topics of C language 
 - 🌱 learning C# programming language
-- 👯 ready to collaborate and get an experience with software developers who are specialized in building technologies using primarily JavaScript | React & C | C++ 
-- 💬 looking for an opportunity to do internship with a company where I will use my acquired knowledge and skills to contribute to the prosperity of the company
+- 💬 looking for an opportunity at company where I will use my acquired knowledge and skills to contribute to the prosperity of the company and the society
 - ⚡ Fun fact: Have high passion to learn anything new when it has a high potential to push me forward in my field!
 
 ## Technologies
@@ -34,14 +33,4 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkodirkhonov)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Connect me with
-<!-- [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
-[<img align="left" alt="facebook | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
-[<img align="left" alt="telegram | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>][telegram]
-<br/> -->
-
-- [linkedin] : https://www.linkedin.com/in/rustamjon-kodirkhonov-23b3311b7
-- [twitter] : https://twitter.com/RKodirkhonov
-- [facebook] : https://www.facebook.com/developer6229
-- [telegram] : https://t.me/Rustamjon_Kodirkhonov
+## Contact me with this email: kodirkhonov99@gmail.com
