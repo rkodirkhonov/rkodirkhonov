@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - JavaScript | ReactJs
 - C/C++ | C#
 
-[![status](https://github-readme-stats.vercel.app/api?username=rkodirkhonov)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![status](https://github-readme-stats.vercel.app/api?username=rkodirkhonov)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 ## Contact me with this email: kodirkhonov99@gmail.com
