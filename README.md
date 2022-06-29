@@ -16,18 +16,21 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
- Hi There, 👋 I'm Rustamjon, a student at Sejong University
-- 🙎🏻‍♂️ currently working with lab practices using data structures widely
-- 💯 acing my programming skills in JavaScript and in javascript framework/libraries
-- 🌱 learning C# programming language 
-- ⚡ Fun fact: Have high passion to learn anything new when it has a high potential to push me forward in my field!
+ Hi There, 👋 I'm Rustamjon, a student at Sejong University.
+- 🔭 I’m currently working on JavaScript projects...
+- 🌱 I’m currently improving React skills 
+- 👯 I’m looking for an opportunity to collaborate on real-life projects...
+- 🤔 I’m looking for help with finding an internship...
+- 💬 Ask me about my works done so far, happy to share...
+- 📫 How to reach me: by email (kodirkhonov99@gmail.com)
+- ⚡ If you have some suggestions or recommendations, feel free to contact me...
 
 ## Technologies
 - HTML5 | CSS (flexbox | grid layout)
 - JavaScript | ReactJs
 - C/C++ | C#
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkodirkhonov)](https://github.com/anuraghazra/github-readme-stats)
+[![status](https://github-readme-stats.vercel.app/api?username=rkodirkhonov)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Contact me with this email: kodirkhonov99@gmail.com
