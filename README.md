@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 <!-- [![status](https://github-readme-stats.vercel.app/api?username=rkodirkhonov)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Projects 
-https://rkodirkhonov.github.io/ppractice
-https://rkodirkhonov.github.io/src
+- https://rkodirkhonov.github.io/ppractice
+- https://rkodirkhonov.github.io/src
 
 
 ## Contact me with this email: kodirkhonov99@gmail.com
