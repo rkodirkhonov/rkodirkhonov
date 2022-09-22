@@ -16,15 +16,18 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
- Hi There, 👋 I'm Rustamjon, a student at Sejong University.
-- 🔭 I’m currently working on JavaScript skills
+ Hi There, 👋 I'm Rustamjon, a passionate student at Sejong University.
+- 🔭 I’m currently working on JavaScript skills on Frontend Masters
 - 📫 How to reach me: by email (kodirkhonov99@gmail.com)
 - ⚡ If you have some suggestions or recommendations, feel free to contact me...
 
 ## Technologies
 - HTML5 | CSS (flexbox | grid layout)
+- SASS | Responsive Design
 - JavaScript | ReactJs
 - C/C++ | C#
+- Python | Java
+- CodeBlocks | Jypiter
 
 <!-- [![status](https://github-readme-stats.vercel.app/api?username=rkodirkhonov)](https://github.com/anuraghazra/github-readme-stats) -->
 
