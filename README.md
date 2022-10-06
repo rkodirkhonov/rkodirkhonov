@@ -16,15 +16,17 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
- Hi There, 👋 I'm Rustamjon, a passionate student at Sejong University.
-- 🔭 I’m currently working on JavaScript skills on Frontend Masters
-- 📫 How to reach me: by email (kodirkhonov99@gmail.com)
+ Hi There, 👋 I'm Rustamjon, computer science student at Sejong University.
+- 🔭 I’m currently working on my frontend engineering skills on Frontend Masters
+- 🌱 I’m currently learning React...
 - ⚡ If you have some suggestions or recommendations, feel free to contact me...
 
 ## Technologies
+## speciality: 
 - HTML5 | CSS (flexbox | grid layout)
 - SASS | Responsive Design
 - JavaScript | ReactJs
+## extra experiences in: 
 - C/C++ | C#
 - Python | Java
 - CodeBlocks | Jypiter
