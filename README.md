@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ## About Me
  Hi There, 👋 I'm Rustamjon, computer science student at Sejong University.
 - 🔭 I’m currently working on my frontend engineering skills on Frontend Masters
-- 🌱 I’m currently learning React...
+- 🌱 I’m currently improving ReactJs skills and learning MongoDB broadly...
 - ⚡ If you have some suggestions or recommendations, feel free to contact me...
 
 ## Technologies
-## speciality: 
+## specialization: 
 - HTML5 | CSS (flexbox | grid layout)
 - SASS | Responsive Design
 - JavaScript | ReactJs
@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 - C/C++ | C#
 - Python | Java
 - CodeBlocks | Jypiter
+- GitHub | Linux terminal
 
 <!-- [![status](https://github-readme-stats.vercel.app/api?username=rkodirkhonov)](https://github.com/anuraghazra/github-readme-stats) -->
 
