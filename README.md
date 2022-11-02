@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ## About Me
  Hi There, 👋 I'm Rustamjon, computer science student at Sejong University.
-- 🔭 I’m currently working on my frontend engineering skills on Frontend Masters
-- 🌱 I’m currently improving ReactJs skills and learning MongoDB broadly...
+- 🔭 I’m currently working on my frontend skills on Frontend Masters
+- 🌱 I’m currently improving (working on) my programming skills
 - ⚡ If you have some suggestions or recommendations, feel free to contact me...
 
 ## Technologies
