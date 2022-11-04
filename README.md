@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m constantly improving my programming skills
+
+- I am Rustamjon Kodirkhonov, a frontend developer.
 ## Technologies
 - HTML5 | CSS (flexbox | grid layout)
 - SASS | Responsive Design
 - JavaScript | ReactJs
-- C/C++ | Java
-- Python | C#
+- C | Java
 
 [![status](https://github-readme-stats.vercel.app/api?username=rkodirkhonov)](https://github.com/anuraghazra/github-readme-stats)
