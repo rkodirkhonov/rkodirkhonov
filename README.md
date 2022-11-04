@@ -14,29 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## About Me
- Hi There, 👋 I'm Rustamjon, computer science student at Sejong University.
-- 🔭 I’m currently working on my frontend skills on Frontend Masters
-- 🌱 I’m currently improving (working on) my programming skills
-- ⚡ If you have some suggestions or recommendations, feel free to contact me...
-
+- 🌱 I’m constantly improving my programming skills
 ## Technologies
-## specialization: 
 - HTML5 | CSS (flexbox | grid layout)
 - SASS | Responsive Design
 - JavaScript | ReactJs
-## extra experiences in: 
-- C/C++ | C#
-- Python | Java
-- CodeBlocks | Jypiter
-- GitHub | Linux terminal
+- C/C++ | Java
+- Python | C#
 
-<!-- [![status](https://github-readme-stats.vercel.app/api?username=rkodirkhonov)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- ## Projects 
-- https://rkodirkhonov.github.io/ppractice
-- https://rkodirkhonov.github.io/src
--->
-
-## Contact me with this email: kodirkhonov99@gmail.com
+[![status](https://github-readme-stats.vercel.app/api?username=rkodirkhonov)](https://github.com/anuraghazra/github-readme-stats)
