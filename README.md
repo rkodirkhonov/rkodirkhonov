@@ -14,12 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About Me
+- I am Rustamjon Kodirkhonov, a student, from Uzbekistan, studying at Sejong University in Seoul.
 
-- I am Rustamjon Kodirkhonov, a frontend developer.
-## Technologies
+### Technologies
+### main
 - HTML5 | CSS (flexbox | grid layout)
 - SASS | Responsive Design
-- JavaScript | ReactJs
-- C | Java
+- JavaScript | React | TypeScript
+
+### others
+- C/C++ | Java
+- C# | Python
+- MongoDB
+- VS Code | CodeBlocks
 
 [![status](https://github-readme-stats.vercel.app/api?username=rkodirkhonov)](https://github.com/anuraghazra/github-readme-stats)
