@@ -7,7 +7,7 @@
 
 - 📋 You can check out about me below!
 
-- 👨🏻‍💻 I'm working with **JavaScript and its frameworks: React, Next, TypeScript**
+- 👨🏻‍💻 I'm working with **JavaScript and its frameworks: React, Next, TypeScript** as well as NodeJS for backend development!
 
 - 💬 Let's have a conversation about **JavaScript and its amazing/powerful frameworks**
 
