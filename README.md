@@ -13,7 +13,7 @@ Aside from my technical skills, I have also completed accounting courses and hav
 
 Looking for:
 
-I am seeking job positions as a Software Engineer, Frontend Engineer, or Javascript / React developer. I am eager to apply my skills and experience in a professional setting and continue to grow as a developer.
+I am seeking job positions as a Software Engineer, Frontend Engineer, or Javascript / React developer. I am eager to apply my skills and experience in a professional setting and contribute to your company.
 
 Conclusion:
 
