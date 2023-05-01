@@ -1,5 +1,5 @@
 <h1 align="left">Hi there 🙂, my name is Rustamjon Kodirkhonov</h1>
-I am a 24-year-old front-end developer with a passion for coding and problem-solving. I am graduating this summer with a degree in Computer Engineering and Hotel Tourism Management from Sejong University. My journey in programming started in 2020, and since then, I have been working hard to learn and grow my skills.
+I am a 24-year-old front-end developer with a passion for coding and problem-solving. I am graduating this summer with a degree in Computer Engineering from Sejong University. My journey in programming started in 2020, and since then, I have been working hard to learn and grow my skills.
 
 Skills:
 
