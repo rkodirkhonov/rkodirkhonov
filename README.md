@@ -1,5 +1,5 @@
 <h1 align="left">Hi there 🙂, my name is Rustamjon Kodirkhonov</h1>
-I am a 24-year-old front-end developer with a passion for coding and problem-solving. I am graduating this summer with a degree in Computer Engineering from Sejong University. My journey in programming started in 2020, and since then, I have been working hard to learn and grow my skills.
+I am a 24-year-old front-end developer with a passion for coding and problem-solving. I am graduating this summer with a degree in Computer Engineering from Sejong University. My journey in programming started in 2019, and since then, I have been working hard to learn and grow my skills.
 
 SKILLS:
 
@@ -15,19 +15,16 @@ SKILLS:
 
 </p>
 
-I have completed several online courses, including The Complete Web Developer, Javascript - The Complete Guide, and C Programming Made easy for beginner & intermediate learners. I have also completed courses on Responsive Web Design, Bootstrap, jQuery, SASS, and React on www.freeCodeCamp.com. Additionally, I have completed courses on Web programming, C#, JAVA, Python, C programming, C advanced, Data Structure, Algorithm at the University. I am comfortable using programming languages such as C/C++, Javascript (especially React library), and Python. I have also gained experience working with GIT, MongoDB, MySQL, NodeJs (express js) technologies.
+<!-- I have completed several online courses, including The Complete Web Developer, Javascript - The Complete Guide, and C Programming Made easy for beginner & intermediate learners. I have also completed courses on Responsive Web Design, Bootstrap, jQuery, SASS, and React on www.freeCodeCamp.com. Additionally, I have completed courses on Web programming, C#, JAVA, Python, C programming, C advanced, Data Structure, Algorithm at the University. I am comfortable using programming languages such as C/C++, Javascript (especially React library), and Python. I have also gained experience working with GIT, MongoDB, MySQL, NodeJs (express js) technologies.
 
 Experience:
 
-During my time studying and working on class projects with international students, I have learned how to work effectively in a team environment. Some of my notable class projects include Contact Management, Simple Calculator, and Database project.
+During my time studying and working on class projects with international students, I have learned how to work effectively in a team environment. Some of my notable class projects include Contact Management, Simple Calculator, and Database project. -->
 
-Looking for:
 
-I am seeking job positions as a Software Engineer, Frontend Engineer, or Javascript / React developer. I am eager to apply my skills and experience in a professional setting and contribute to your company.
+I am currently open for a job positions as a Software Engineer, Frontend Engineer, or Javascript / React developer. I am eager to apply my skills and experience in a professional setting and contribute to your company.
 
-Conclusion:
-
-As a front-end developer, I have a strong foundation in programming, a passion for problem-solving, and an eagerness to learn. I am confident that my skills and experience will make me an asset to your team. Thank you for taking the time to read my profile, and I look forward to hearing from you soon.
+Thank you for taking the time to read my profile, and I look forward to hearing from you soon.
 
 <!-- <h3 align="center">A Front-end Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
