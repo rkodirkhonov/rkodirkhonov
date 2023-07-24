@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkodirkhonov&label=Profile%20views&color=0e75b6&style=flat" alt="rkodirkhonov" /> </p>
 
 
-- 📋 You can check out my [RESUME](https://drive.google.com/file/d/1eiO9aufw3a3VaLc4YC9Tepfr7dven_iA/view?usp=sharing)
+- 📋 You can check out my [RESUME](https://drive.google.com/file/d/1xr1w1R_SLt5kxAdBNEQCvyhO27EFkJp1/view?usp=sharing)
 - 🔭 I’m currently working on my communication skills!
 
 - 👨🏻‍💻 I'm improving my skills with **JavaScript, React, Node, Next, and Redux**
