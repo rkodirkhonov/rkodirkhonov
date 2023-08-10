@@ -6,7 +6,7 @@
 
 
 - 📋 You can check out my [RESUME](https://drive.google.com/file/d/1xr1w1R_SLt5kxAdBNEQCvyhO27EFkJp1/view?usp=sharing)
-- 🔭 I’m currently working on my communication skills!
+- 🔭 I’m currently working on my frontend skills!
 
 - 👨🏻‍💻 I'm improving my skills with **JavaScript, React, Node, Next, and Redux**
 
