@@ -37,6 +37,3 @@
 
 <br />
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rkodirkhonov&theme=gotham&show_icons=true&locale=en&layout=compact" alt="rkodirkhonov"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rkodirkhonov&theme=gotham&show_icons=true&locale=en" alt="rkodirkhonov"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rkodirkhonov&theme=gotham&" alt="rkodirkhonov"/></p>
