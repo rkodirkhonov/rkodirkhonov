@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkodirkhonov&label=Profile%20views&color=0e75b6&style=flat" alt="rkodirkhonov" /> </p>
 
 
-- 📋 You can check out my RESUME [in English](https://drive.google.com/file/d/1kCbyfZ_ngLxSAn-WpAANayX0U4giIYll/view?usp=sharing) or [in Korean](https://drive.google.com/file/d/1Kt6ZrdF45gCGntsFaAl5v7EJ2TT5RYM4/view?usp=sharing)
+- 📋 You can check out my RESUME [in English](https://drive.google.com/file/d/1kCbyfZ_ngLxSAn-WpAANayX0U4giIYll/view?usp=sharing) <!-- or [in Korean](https://drive.google.com/file/d/1Kt6ZrdF45gCGntsFaAl5v7EJ2TT5RYM4/view?usp=sharing) -->
 - 🔭 I’m currently working on my frontend skills!
 
 - 👨🏻‍💻 I'm improving my skills with **JavaScript, React, Node, Next, and Redux**
