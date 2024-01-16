@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkodirkhonov&label=Profile%20views&color=0e75b6&style=flat" alt="rkodirkhonov" /> </p>
 
 
-- 📋 You can check out my RESUME [in English](https://drive.google.com/file/d/114F_23r9x2sm6JrWd1xkR9whKkjG73Sk/view?usp=drivesdk) <!-- or [in Korean](https://drive.google.com/file/d/1Kt6ZrdF45gCGntsFaAl5v7EJ2TT5RYM4/view?usp=sharing) -->
+<!--  📋 You can check out my RESUME [in English](https://drive.google.com/file/d/114F_23r9x2sm6JrWd1xkR9whKkjG73Sk/view?usp=drivesdk) -->  <!-- or [in Korean](https://drive.google.com/file/d/1Kt6ZrdF45gCGntsFaAl5v7EJ2TT5RYM4/view?usp=sharing) -->
 - 🔭 I’m currently working on my frontend skills!
 
 - 👨🏻‍💻 I'm improving my skills with **JavaScript, React, Node, Next, and Redux**
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **kodirkhonov99@gmail.com**
 
-- ⚡ Fun fact: **I like computer games such as counter strike**
+<!-- ⚡ Fun fact: **I like computer games such as counter strike** -->
 
 # <h3 align="left">Connect with me:</h3>
 <p align="left">
