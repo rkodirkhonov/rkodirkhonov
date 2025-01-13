@@ -22,7 +22,7 @@
 
 **Connect with me:**
 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/rustamjon-kodirkhonov-23b3311b7/" height="30" width="40">](https://www.linkedin.com/in/rustamjon-kodirkhonov-23b3311b7/)
+<!-- [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/rustamjon-kodirkhonov-23b3311b7/" height="30" width="40">](https://www.linkedin.com/in/rustamjon-kodirkhonov-23b3311b7/) -->
 
 <!--  # **Pinned Repositories:**
 
