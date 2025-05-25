@@ -1,20 +1,22 @@
 # Rustamjon Kodirkhonov
 
-**Hi, I'm Rustamjon Kodirkhonov, a passionate developer with a background in Computer Science and Hotel Tourism Management.** I completed my bachelor's degree at Sejong University in Seoul, South Korea.
+I am a dedicated and adaptable professional with a dual academic background in Computer Science and Hotel & Tourism Management from Sejong University, Seoul. My journey combines technical knowledge, hands-on work experience, and a strong desire for continuous growth.
 
-**I specialize in JavaScript development**, focusing on creating intuitive and efficient web applications. I'm currently exploring frameworks like **Next.js, Express.js, and Fastify**, while also diving into database management with **MongoDB and MySQL**.
+Currently focusing on JavaScript-based development, I am expanding my expertise in frameworks such as Next.js, Express.js, and Fastify, while building a solid foundation in MongoDB and MySQL for backend and data management tasks. I enjoy building responsive, user-friendly web applications and continuously learning best practices in modern software development.
 
-**My skills and interests include:**
+Alongside development, I am also exploring the fundamentals of cybersecurity, aiming to strengthen my technical depth and practical awareness in a field that increasingly affects every industry.
 
-* Building responsive web applications using modern frameworks and tools.
-* Learning **cybersecurity** to expand my technical expertise.
-* Experimenting with **MERN** and **JAMstack** technologies to enhance my projects.
+## Core Interests and Skills:
+- Frontend Development (JavaScript, React, HTML/CSS)
+- Web Frameworks (Next.js, Express.js)
+- Databases (MongoDB, MySQL)
+- Project-Based Learning (MERN Stack, JAMstack)
+- Cybersecurity Fundamentals
+- Strong communication, customer service, and teamwork from hospitality and logistics experience
 
-**I aim to contribute to innovative projects and grow as a junior front-end developer** or in roles that allow me to bridge my technical skills with my interest in global industries like sales and management.
+Whether contributing as a junior front-end developer, participating in cross-functional teams, or supporting business operations with technical insight, I bring reliability, a learning mindset, and a collaborative spirit to any role.
 
-**Currently based in Seoul**, I'm open to collaborating on exciting projects and learning from developers worldwide.
-
-**Feel free to explore my repositories and connect with me!** 😊
+I am currently based in Seoul and open to global opportunities in tech or roles where technology meets business.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rkodirkhonov&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/rkodirkhonov)
 
