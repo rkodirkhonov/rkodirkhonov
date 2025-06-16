@@ -1,22 +1,20 @@
 # Rustamjon Kodirkhonov
 
-I am a dedicated and adaptable professional with a dual academic background in Computer Science and Hotel & Tourism Management from Sejong University, Seoul. My journey combines technical knowledge, hands-on work experience, and a strong desire for continuous growth.
+I am a versatile and detail-oriented developer with a dual academic background in Computer Science and Hotel & Tourism Management from Sejong University, Seoul. My journey blends technical proficiency with real-world experience in fast-paced environments.
 
-Currently focusing on JavaScript-based development, I am expanding my expertise in frameworks such as Next.js, Express.js, and Fastify, while building a solid foundation in MongoDB and MySQL for backend and data management tasks. I enjoy building responsive, user-friendly web applications and continuously learning best practices in modern software development.
+Currently, I specialize in JavaScript-based development, with growing expertise in frameworks like Next.js, Express.js, and Fastify. I work with both SQL and NoSQL databases, including MySQL and MongoDB, to build scalable, responsive, and user-friendly web applications.
 
-Alongside development, I am also exploring the fundamentals of cybersecurity, aiming to strengthen my technical depth and practical awareness in a field that increasingly affects every industry.
+In parallel, I am building a strong foundation in cybersecurity to deepen my understanding of secure system design and digital resilience.
 
-## Core Interests and Skills:
-- Frontend Development (JavaScript, React, HTML/CSS)
-- Web Frameworks (Next.js, Express.js)
-- Databases (MongoDB, MySQL)
-- Project-Based Learning (MERN Stack, JAMstack)
-- Cybersecurity Fundamentals
-- Strong communication, customer service, and teamwork from hospitality and logistics experience
+## ⚙️ Core Skills & Interests
+- **Frontend Development:** JavaScript, React, HTML5, CSS3
+- **Web Frameworks:** Next.js, Express.js, Fastify
+- **Databases:** MongoDB, MySQL
+- **Architecture:** MERN Stack, JAMstack principles
+- **Cybersecurity:** Fundamentals & Practical Awareness
+- **Soft Skills:** Problem-solving, collaboration, adaptability
 
-Whether contributing as a junior front-end developer, participating in cross-functional teams, or supporting business operations with technical insight, I bring reliability, a learning mindset, and a collaborative spirit to any role.
-
-I am currently based in Seoul and open to global opportunities in tech or roles where technology meets business.
+I bring a growth mindset, technical reliability, and a collaborative approach to every team and project I join. I am open to global opportunities in software development, particularly where user experience, performance, and security intersect.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rkodirkhonov&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/rkodirkhonov)
 
@@ -24,7 +22,7 @@ I am currently based in Seoul and open to global opportunities in tech or roles 
 
 **Connect with me:**
 
-<!-- [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/rustamjon-kodirkhonov-23b3311b7/" height="30" width="40">](https://www.linkedin.com/in/rustamjon-kodirkhonov-23b3311b7/) -->
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/rustamjon-kodirkhonov-23b3311b7/" height="30" width="40">](https://www.linkedin.com/in/rustamjon-kodirkhonov-23b3311b7/)
 
 <!--  # **Pinned Repositories:**
 
