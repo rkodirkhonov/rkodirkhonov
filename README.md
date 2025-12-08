@@ -2,7 +2,7 @@
 
 I am a versatile and detail-oriented developer with a dual academic background in Computer Science and Hotel & Tourism Management from Sejong University, Seoul. My journey blends technical proficiency with real-world experience in fast-paced environments.
 
-Currently, I specialize in JavaScript-based development, with growing expertise in frameworks like Next.js, Express.js, and Fastify. I work with both SQL and NoSQL databases, including MySQL and MongoDB, to build scalable, responsive, and user-friendly web applications.
+Currently, I specialize in JavaScript-based development, with growing expertise in frameworks like Next.js, Express.js, and Node.JS. I work with both SQL and NoSQL databases, including MySQL and MongoDB, to build scalable, responsive, and user-friendly web applications.
 
 In parallel, I am building a strong foundation in cybersecurity to deepen my understanding of secure system design and digital resilience.
 
