@@ -17,6 +17,8 @@ In parallel, I am building a strong foundation in cybersecurity to deepen my und
 I bring a growth mindset, technical reliability, and a collaborative approach to every team and project I join. I am open to global opportunities in software development, particularly where user experience, performance, and security intersect.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rkodirkhonov&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/rkodirkhonov)
+[![Non-professional](https://komarev.com/ghpvc/?username=rkodirkhonov&label=Profile%20views&color=0e75b6&style=flat)](https://1drv.ms/w/c/d941c8ac805ec638/IQApg3YlTCFnSbXd5XwjB8zJAfoxfuA0PPHOgsBUW1y1kII?e=mHrsDI)
+<!-- https://1drv.ms/w/c/d941c8ac805ec638/IQApg3YlTCFnSbXd5XwjB8zJAfoxfuA0PPHOgsBUW1y1kII?e=mHrsDI -->
 
 **📫 How to reach me:** kodirkhonov99@gmail.com
 
