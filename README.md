@@ -1,32 +1,37 @@
-# Rustamjon Kodirkhonov
+# About Me
 
-I am a versatile and detail-oriented developer with a dual academic background in Computer Science and Hotel & Tourism Management from Sejong University, Seoul. My journey blends technical proficiency with real-world experience in fast-paced environments.
+I am a focused developer with a unique dual background in **Computer Science** and **Hospitality & Tourism Management** from Sejong University.
 
-Currently, I specialize in JavaScript-based development, with growing expertise in frameworks like Next.js, Express.js, and Node.JS. I work with both SQL and NoSQL databases, including MySQL and MongoDB, to build scalable, responsive, and user-friendly web applications.
+I am actively building my practical skills in web development and cybersecurity. My focus is on the JavaScript ecosystem, working with `Next.js`, `Node.js`, `Express.js`, `MySQL`, `PostgreSQL`, and `MongoDB` to build functional, clean web applications. Alongside development, I study cybersecurity fundamentals to ensure I build with a mindset focused on digital security and resilience.
 
-In parallel, I am building a strong foundation in cybersecurity to deepen my understanding of secure system design and digital resilience.
+I am transparent about being early in my career, but I back it up with a strong technical foundation, a sharp learning curve, and a drive to solve real problems through practical experience.
 
-## ⚙️ Core Skills & Interests
-- **Frontend Development:** JavaScript, React, HTML5, CSS3
-- **Web Frameworks:** Next.js, Express.js, NodeJS
-- **Databases:** MongoDB, MySQL
-- **Architecture:** MERN Stack, JAMstack principles
-- **Cybersecurity:** Fundamentals & Practical Awareness
-- **Soft Skills:** Problem-solving, collaboration, adaptability
+## ⚙️ Core Technical Stack & Interests
 
-I bring a growth mindset, technical reliability, and a collaborative approach to every team and project I join. I am open to global opportunities in software development, particularly where user experience, performance, and security intersect.
+- **Frontend:** `JavaScript`, `React`, `Next.js`, `HTML5`, `CSS3`
+- **Backend & Frameworks:** `Node.js`, `Express.js`
+- **Databases:** `PostgreSQL`, `MySQL`, `MongoDB`
+- **Focus Areas:** MERN Stack, Web Accessibility, Cybersecurity Fundamentals
 
-[Non-Pofesional Experience](https://1drv.ms/w/c/d941c8ac805ec638/IQApg3YlTCFnSbXd5XwjB8zJAfoxfuA0PPHOgsBUW1y1kII?e=mHrsDI)
+## 🚀 My Approach
+
+- **No Fluff, Just Code:** I prefer letting my GitHub speak for my progress rather than managing a personal portfolio site.
+- **Growth Mindset:** I am looking for opportunities where I can sharpen my theoretical knowledge through real-world production, trials, or practical tasks.
+- **Driven:** I am focused on building high-value solutions, working hard, and hitting big milestones early in my career.
+
+<!-- [Non-Pofesional Experience](https://1drv.ms/w/c/d941c8ac805ec638/IQApg3YlTCFnSbXd5XwjB8zJAfoxfuA0PPHOgsBUW1y1kII?e=mHrsDI) -->
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rkodirkhonov&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/rkodirkhonov)
 
 <!-- https://1drv.ms/w/c/d941c8ac805ec638/IQApg3YlTCFnSbXd5XwjB8zJAfoxfuA0PPHOgsBUW1y1kII?e=mHrsDI -->
 
-**📫 How to reach me:** kodirkhonov99@gmail.com
+**📫 How to reach me:** 
+- mr.rkodirkhonov@gmail.com
+- kodirkhonov99@gmail.com
 
-**Connect with me:**
+<!-- **Connect with me:**
 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/rustamjon-kodirkhonov-23b3311b7/" height="30" width="40">](https://www.linkedin.com/in/rustamjon-kodirkhonov-23b3311b7/)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/rustamjon-kodirkhonov-23b3311b7/" height="30" width="40">](https://www.linkedin.com/in/rustamjon-kodirkhonov-23b3311b7/)-->
 
 <!--  # **Pinned Repositories:**
 
