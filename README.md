@@ -1,8 +1,11 @@
 # About Me
+Hello, I'm Rustam, 27 years old frontend developer from Uzbekistan.
+
+I am currently fast-tracking my practical skills by working directly under a senior Full-Stack/React developer (7+ YOE). Through this mentorship, I handle real-world tasks, participate in strict code reviews, and learn industry-standard collaboration workflows daily.
 
 I am a focused developer with a unique dual background in **Computer Science** and **Hospitality & Tourism Management** from Sejong University.
 
-I am actively building my practical skills in web development and cybersecurity. My focus is on the JavaScript ecosystem, working with `Next.js`, `Node.js`, `Express.js`, `MySQL`, `PostgreSQL`, and `MongoDB` to build functional, clean web applications. Alongside development, I study cybersecurity fundamentals to ensure I build with a mindset focused on digital security and resilience.
+I am actively building my practical skills in web development. My focus is on the JavaScript ecosystem, working with `Next.js`, `Node.js`, `Express.js`, `MySQL`, `PostgreSQL`, and `MongoDB` to build functional, clean web applications. Alongside development, I study cybersecurity fundamentals to ensure I build with a mindset focused on digital security and resilience.
 
 I am transparent about being early in my career, but I back it up with a strong technical foundation, a sharp learning curve, and a drive to solve real problems through practical experience.
 
