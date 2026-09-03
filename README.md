@@ -1,28 +1,120 @@
-# About Me
-Hello, I'm Rustam, 27 years old frontend developer from Uzbekistan.
+# About Me 👋
+Hello, I'm Rustam, a frontend developer from Uzbekistan.
 
-I am currently fast-tracking my practical skills by working directly under a senior Full-Stack/React developer (7+ YOE). Through this mentorship, I handle real-world tasks, participate in strict code reviews, and learn industry-standard collaboration workflows daily.
+### Frontend Developer • React & Next.js • AI-Assisted Development
 
-I am a focused developer with a unique dual background in **Computer Science** and **Hospitality & Tourism Management** from Sejong University.
+I'm a **frontend-focused developer** building practical, production-oriented web applications with **JavaScript, React, and Next.js**.
 
-I am actively building my practical skills in web development. My focus is on the JavaScript ecosystem, working with `Next.js`, `Node.js`, `Express.js`, `MySQL`, `PostgreSQL`, and `MongoDB` to build functional, clean web applications. Alongside development, I study cybersecurity fundamentals to ensure I build with a mindset focused on digital security and resilience.
+I'm currently accelerating my development skills through hands-on work under a senior Full-Stack/React developer, where I work on real-world tasks, receive strict code reviews, and learn professional Git/GitHub collaboration and development workflows.
 
-I am transparent about being early in my career, but I back it up with a strong technical foundation, a sharp learning curve, and a drive to solve real problems through practical experience.
+My background combines **Computer Science** with **Hospitality & Tourism Management from Sejong University**, giving me both a technical foundation and a strong understanding of user-focused problem solving.
 
-## ⚙️ Core Technical Stack & Interests
+> **I'm early in my career — but I'm serious about becoming exceptionally good at building things.**
 
-- **Frontend:** `JavaScript`, `React`, `Next.js`, `HTML5`, `CSS3`
-- **Backend & Frameworks:** `Node.js`, `Express.js`
-- **Databases:** `PostgreSQL`, `MySQL`, `MongoDB`
-- **Focus Areas:** MERN Stack, Web Accessibility, Cybersecurity Fundamentals
+---
 
-## 🚀 My Approach
+## 🚀 What I'm Focused On
 
-- **No Fluff, Just Code:** I prefer letting my GitHub speak for my progress rather than managing a personal portfolio site.
-- **Growth Mindset:** I am looking for opportunities where I can sharpen my theoretical knowledge through real-world production, trials, or practical tasks.
-- **Driven:** I am focused on building high-value solutions, working hard, and hitting big milestones early in my career.
+- ⚛️ Building modern **React & Next.js** applications
+- 🧠 Learning **AI-assisted software development & prompt engineering**
+- 🤖 Working with **Claude AI & GitHub Copilot**
+- 🔧 Improving JavaScript and frontend architecture
+- ♿ Building accessible and user-friendly interfaces
+- 🔐 Learning cybersecurity fundamentals for secure development
+- 🌿 Improving Git & GitHub workflows
+- ⚙️ Understanding CI/CD and modern development practices
+- 🧪 Writing cleaner, maintainable, production-ready code
 
-<!-- [Non-Pofesional Experience](https://1drv.ms/w/c/d941c8ac805ec638/IQApg3YlTCFnSbXd5XwjB8zJAfoxfuA0PPHOgsBUW1y1kII?e=mHrsDI) -->
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### AI-Assisted Development
+
+![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+`Prompt Engineering` `AI Coding Workflows` `AI-Assisted Debugging`
+
+---
+
+## 🧠 How I Work
+
+### Build → Review → Learn → Improve
+
+I prefer **real implementation over endless tutorials**.
+
+I learn by:
+
+- Building actual features
+- Reading and understanding existing code
+- Getting code reviewed
+- Debugging problems
+- Refactoring weak solutions
+- Studying why a solution works
+- Using AI as a development assistant — not as a replacement for understanding
+
+My goal is not simply to make code work.
+
+**My goal is to understand why it works and make the next version better.**
+
+---
+
+## 🤖 AI Is Part of My Development Workflow
+
+I'm actively learning **prompt engineering and AI-assisted development** using tools such as **Claude AI and GitHub Copilot**.
+
+I'm particularly interested in using AI for:
+
+- 🔍 Code exploration and understanding
+- 🐛 Debugging
+- ♻️ Refactoring
+- 🧪 Test generation
+- 📝 Documentation
+- 🔌 Learning unfamiliar APIs
+- 💡 Generating development ideas
+- 🔎 Reviewing implementation approaches
+- ⚡ Improving developer productivity
+
+I'm also learning to **verify AI-generated code rather than blindly accepting it**.
+
+> **AI writes faster. Understanding makes the developer better.**
+
+---
+
+## 📚 Current Learning Path
+
+```text
+JavaScript
+    ↓
+React
+    ↓
+Next.js
+    ↓
+Frontend Architecture
+    ↓
+Testing & Accessibility
+    ↓
+CI/CD & GitHub
+    ↓
+AI-Assisted Development
+    ↓
+Production-Ready Frontend Engineering
+```
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rkodirkhonov&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/rkodirkhonov)
 
