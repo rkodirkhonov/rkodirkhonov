@@ -1,5 +1,5 @@
 # About Me 👋
-Hello, I'm Rustam, a frontend developer from Uzbekistan.
+## Hello, I'm Rustam, a frontend developer from Uzbekistan.
 
 ### Frontend Developer • React & Next.js • AI-Assisted Development
 
