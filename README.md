@@ -13,6 +13,28 @@ My background combines **Computer Science** with **Hospitality & Tourism Managem
 
 ---
 
+## 💻 Featured Projects
+
+### 🍽️ [Restaurant Reservations](https://github.com/rkodirkhonov/restaurant)
+A restaurant website with account registration, sign-in, reservation requests, and booking history.
+
+**Built with:** React, React Router, Firebase Authentication, and Cloud Firestore.  
+**Explore:** [Source code](https://github.com/rkodirkhonov/restaurant) · [Booking interface](https://github.com/rkodirkhonov/restaurant/blob/master/src/pages/BookTable.jsx)
+
+### 🎮 [Tic-Tac-Toe](https://github.com/rkodirkhonov/tictactoe)
+A local two-player browser game with turn handling, win and draw detection, and restart controls.
+
+**Built with:** JavaScript, HTML, and CSS.  
+**Explore:** [Play the game](https://rkodirkhonov.github.io/tictactoe/) · [Source code](https://github.com/rkodirkhonov/tictactoe)
+
+### 📇 [Contact Management](https://github.com/rkodirkhonov/class-project)
+An earlier desktop learning project for adding, finding, displaying, and deleting contacts stored in memory.
+
+**Built with:** C# and Windows Forms.  
+**Explore:** [Source code and demonstration](https://github.com/rkodirkhonov/class-project)
+
+---
+
 ## 🚀 What I'm Focused On
 
 - ⚛️ Building modern **React & Next.js** applications
